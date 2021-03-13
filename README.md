@@ -28,11 +28,12 @@ JWT_KEY=<secret>
 ```
 
 In your frontend folder, create a .env file and add the following:
+```
 REACT_APP_GOOGLE_API_KEY=<key>
 REACT_APP_BACKEND_URL=<url>
 REACT_APP_ASSET_URL=<url>
-
-In your terminal, on both the backend and front folde, run:
+```
+In your terminal, on both the backend and frontend folder, run:
 
 ```
 npm start
